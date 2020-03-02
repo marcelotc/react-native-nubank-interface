@@ -1,5 +1,5 @@
 # react-native-nubank-interface
 
-![](appimg1.png)
-![](appimg2.png)
-![](appimg3.png)
+![](src/assets/appimg1.png)
+![](src/assets/appimg2.png)
+![](src/assets/appimg3.png)
